@@ -7,5 +7,5 @@
 - ### 💬 Ask me about JavaScript & MERN Stack
 - ### 📫 How to reach me: owaisnadeem15@gmail.com
 - ### 😄 Pronouns: A hard working guy with a passion of learning and exploring new features in Tech
-- ### ⚡ Fun fact: MERN stack Entusiat
+- ### ⚡ Fun fact: MERN stack Entusiast
 
