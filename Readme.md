@@ -34,5 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owaisnadeem18&" alt="owaisnadeem18" /></p>
 
-![](https://leetcard.owaisnadeem18/lapor?ext=heatmap)
+![](https://leetcard.jacoblin.cool/owaisnadeem18?ext=heatmap)
 
