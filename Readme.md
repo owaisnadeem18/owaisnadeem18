@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Owais Nadeem</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/owaisnadeem18/owaisnadeem18/blob/main/Black%20and%20White%20Futuristic%20Technology%20Banner%20Landscape.gif">
+<img src="https://github.com/owaisnadeem18/owaisnadeem18/blob/main/Black%20and%20White%20Futuristic%20Technology%20Banner%20Landscape.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisnadeem18&label=Profile%20views&color=0e75b6&style=flat" alt="owaisnadeem18" /> </p>
 
