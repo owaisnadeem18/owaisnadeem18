@@ -4,7 +4,6 @@
 <h1 align="center"> Hi 👋,I'm Muhammad Owais Nadeem </h1> 
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
-
 <img src="https://github.com/owaisnadeem18/owaisnadeem18/blob/main/Black%20and%20White%20Futuristic%20Technology%20Banner%20Landscape.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisnadeem18&label=Profile%20views&color=0e75b6&style=flat" alt="owaisnadeem18" /> </p>
@@ -24,6 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/owais-nadeem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/owais-nadeem/" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/owaisnadeem18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="owaisnadeem18" height="30" width="40" /></a>
 </p>
 
