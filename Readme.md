@@ -6,11 +6,11 @@
 
 <img src="https://github.com/owaisnadeem18/owaisnadeem18/blob/main/Black%20and%20White%20Futuristic%20Technology%20Banner%20Landscape.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisnadeem18&label=Profile%20views&color=0e75b6&style=flat" alt="owaisnadeem18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisnadeem18&label=Profile%20views&color=0e75b6&style=flat" alt="owaisnadeem18" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaisnadeem18" alt="owaisnadeem18" /></a> </p>
 
-- 🌱 I’m currently learning **React JS , Express , Node JS & Mongo DB**
+- 🌱 I’m currently learning **React JS, Express, Node JS & Mongo DB**
 
 - 👨‍💻 All of my projects are available at [https://owaisnadeem18.github.io/owais-nadeem-portfolio-web/](https://owaisnadeem18.github.io/owais-nadeem-portfolio-web/)
 
