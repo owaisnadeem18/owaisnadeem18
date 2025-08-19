@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaisnadeem18" alt="owaisnadeem18" /></a> </p>
 
+
 - 🌱 I’m currently learning **React JS, Express, Node JS & Mongo DB**
+
 
 - 👨‍💻 All of my projects are available at [https://owaisnadeem18.github.io/owais-nadeem-portfolio-web/](https://owaisnadeem18.github.io/owais-nadeem-portfolio-web/)
 
