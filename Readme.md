@@ -7,10 +7,13 @@
 
 ## ✨ About Me  
 💡 A passionate **MERN Stack Developer** with a growing interest in **AI & Data Science**.  
-🌱 Currently pursuing **AI, Machine Learning & Data Science** at **SMIT**.  
-💻 Over **15+ months of experience** with **React.js & Next.js**.  
-🤖 Love to integrate **MERN + AI** for building smart applications.  
+🌱 Currently pursuing **AI, Machine Learning & Data Science** at **Saylani Mass IT Training (SMIT)**.  
+💻 Over **15+ months of hands-on experience** in **React.js & Next.js**.  
+🤖 Enthusiastic about integrating **MERN + AI** to build intelligent, problem-solving applications.  
 📬 Reach me at: **owaisnadeem15@gmail.com**  
+
+> *“Make yourself so competent with your skills that you can serve not only yourself, but also your nation.”* 🇵🇰  
+> *“Developers are the IT Soldiers – building digital solutions to strengthen the country’s future.”*  
 
 ---
 
@@ -59,6 +62,13 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/owaisnadeem18?theme=dark&font=Karma&ext=heatmap" />
 </p>
+
+---
+
+## 💬 Developer’s Mindset  
+🔥 *“Coding is not just about solving problems – it’s about solving problems that matter.”*  
+⚡ *“Every line of code I write is a step towards a smarter, digital Pakistan.”* 🇵🇰  
+🚀 *“Consistency + Hard Work + Vision = A Developer Who Builds Change.”*  
 
 ---
 
