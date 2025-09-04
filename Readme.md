@@ -1,7 +1,7 @@
 ![header](https://wallpapercave.com/wp/wp8904080.jpg)
 
 <h1 align="center">👋 Hi, I'm Muhammad Owais Nadeem</h1>
-<h3 align="center">🚀 MERN Stack | React.js | Next.js | AI & Data Science Enthusiast</h3>
+<h3 align="center"> MERN Stack | React.js | Next.js | AI & Data Science Enthusiast</h3>
 
 ---
 
