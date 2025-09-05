@@ -1,19 +1,22 @@
 ![header](https://wallpapercave.com/wp/wp8904080.jpg)
 
-<h1 align="center">👋 Hi, I'm Muhammad Owais Nadeem</h1>
-<h3 align="center"> MERN Stack | React.js | Next.js | AI & Data Science Enthusiast</h3>
+<h1 align="center">👋 Assalam-u-Alaikum, I'm Muhammad Owais Nadeem</h1>
+<h3 align="center">💻 MERN Stack Developer | ⚡ AI & Data Science Explorer | 🚀 Lifelong Learner</h3>
 
 ---
 
 ## ✨ About Me  
-💡 A passionate **MERN Stack Developer** with a growing interest in **AI & Data Science**.  
-🌱 Currently pursuing **AI, Machine Learning & Data Science** at **Saylani Mass IT Training (SMIT)**.  
-💻 Over **15+ months of hands-on experience** in **React.js & Next.js**.  
-🤖 Enthusiastic about integrating **MERN + AI** to build intelligent, problem-solving applications.  
+🌱 Currently learning **AI, Machine Learning & Data Science** at **Saylani Mass IT Training (SMIT)**  
+💻 **15+ months of experience** in **React.js / Next.js**  
+⚡ Focused on building **scalable MERN applications** and integrating them with **AI-powered solutions**  
+🎯 Believe in **“Code for Impact”** → building projects that **help people & serve the country**  
 📬 Reach me at: **owaisnadeem15@gmail.com**  
 
-> *“Make yourself so competent with your skills that you can serve not only yourself, but also your nation.”* 🇵🇰  
-> *“Developers are the IT Soldiers – building digital solutions to strengthen the country’s future.”*  
+---
+
+> 🧑‍💻 *“Make yourself so competent that your skills become a service for your nation.”* 🇵🇰  
+> ⚔️ *“Developers are IT Soldiers – fighting with logic, algorithms, and innovation.”*  
+> 🚀 *“Technology is not just for business, it’s for building a smarter tomorrow.”*  
 
 ---
 
@@ -32,44 +35,44 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Arsenal  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,mongodb,tailwind,js,python,sklearn,pandas,numpy,bootstrap,c,cpp,html,css" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owaisnadeem18&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaisnadeem18&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=owaisnadeem18&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaisnadeem18&layout=compact&theme=radical&hide_border=true" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=owaisnadeem18&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=owaisnadeem18&theme=onedark&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=owaisnadeem18&theme=radical&hide_border=true" height="160px"/>
 </p>
 
 ---
 
-## 💡 LeetCode Progress  
+## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/owaisnadeem18?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://github-profile-trophy.vercel.app/?username=owaisnadeem18&theme=algolia&row=1&column=6" />
 </p>
 
 ---
 
-## 💬 Developer’s Mindset  
-🔥 *“Coding is not just about solving problems – it’s about solving problems that matter.”*  
-⚡ *“Every line of code I write is a step towards a smarter, digital Pakistan.”* 🇵🇰  
-🚀 *“Consistency + Hard Work + Vision = A Developer Who Builds Change.”*  
+## 💡 LeetCode Journey  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/owaisnadeem18?theme=dark&font=Karma&ext=contest,heatmap" />
+</p>
 
 ---
 
-⭐ **“Dedicated, hardworking, and always exploring new technologies to grow as a developer.”**
+## 🔥 Developer’s Mindset  
+💡 *“Coding is not about writing lines, it’s about writing change.”*  
+⚡ *“Every commit is a small step towards innovation.”*  
+🚀 *“With strong skills & vision, developers can become the architects of a digital Pakistan.”* 🇵🇰  
+
+---
+
+⭐ **“Hardworking, consistent, and passionate about building future-ready applications.”**
