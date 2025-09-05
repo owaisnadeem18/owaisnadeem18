@@ -1,7 +1,7 @@
 ![header](https://wallpapercave.com/wp/wp8904080.jpg)
 
-<h1 align="center">👋 Assalam-u-Alaikum, I'm Muhammad Owais Nadeem</h1>
-<h3 align="center">💻 MERN Stack Developer | ⚡ AI & Data Science Explorer | 🚀 Lifelong Learner</h3>
+<h1 align="center">👋 Hello, I'm Muhammad Owais Nadeem</h1>
+<h3 align="center">💻 MERN Stack Developer | ⚡ AI & Data Science Explorer | Lifelong Learner</h3>
 
 ---
 
