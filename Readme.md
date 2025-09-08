@@ -68,7 +68,7 @@
 
 ---
 
-## 🔥 Developer’s Mindset  
+## Developer’s Mindset  
 💡 *“Coding is not about writing lines, it’s about writing change.”*  
 ⚡ *“Every commit is a small step towards innovation.”*  
 *“With strong skills & vision, developers can become the architects of a digital Pakistan.”* 🇵🇰  
