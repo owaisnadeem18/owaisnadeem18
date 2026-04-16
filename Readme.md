@@ -10,7 +10,7 @@
 
 ## ✨ About Me  
 🌱 Currently learning **AI, Machine Learning & Data Science** at **Saylani Mass IT Training (SMIT)**  
-💻 **15+ months of experience** in **React.js / Next.js**  
+💻 **2 years of experience** in **React.js / Next.js & MERN stack**  
 ⚡ Focused on building **scalable MERN applications** and integrating them with **AI-powered solutions**  
 🎯 Believe in **“Code for Impact”** → building projects that **help people & serve the country**  
 📬 Reach me at: **owaisnadeem15@gmail.com**  
@@ -18,8 +18,8 @@
 ---
 
 > 🧑‍💻 *“Make yourself so competent that your skills become a service for your nation.”* 🇵🇰  
-> ⚔️ *“Developers are IT Soldiers – fighting with logic, algorithms, and innovation.”*  
-> 🚀 *“Technology is not just for business, it’s for building a smarter tomorrow.”*  
+> ⚔️ *“Developers are IT Soldiers – fighting with logic, algorithms & innovation.”*  
+> 💡 *“Technology is not just for business, it’s for building a smarter tomorrow.”*  
 
 ---
 
