@@ -9,10 +9,10 @@
 
 
 ## ✨ About Me  
-🌱 Currently learning **AI, Machine Learning & Data Science** at **Saylani Mass IT Training (SMIT)**  
-💻 **2 years of experience** in **React.js / Next.js & MERN stack**  
-⚡ Focused on building **scalable MERN applications** & integrating them with **AI-powered solutions**  
-🎯 Believe in **“Code for Impact”** → building projects that **help people & serve the country**  
+💻 **MERN Stack Developer (React.js, Node.js, Express, MongoDB)** with **2 years of experience** building web applications.  
+⚡ Passionate about **JavaScript & modern frontend & backend development**.  
+✨ Focused on building **scalable, efficient & user-friendly web applications.**  
+🎯 Currently seeking opportunities as a **MERN Stack / Frontend Developer.**    
 📬 Reach me at: **owaisnadeem15@gmail.com**  
 
 ---
