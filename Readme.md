@@ -55,14 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=owaisnadeem18&theme=radical&hide_border=true" height="160px"/>
 </p>
 
----
-
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=owaisnadeem18&theme=algolia&row=1&column=6" />
-</p>
-
----
 
 ## 💡 LeetCode Journey  
 <p align="center">
