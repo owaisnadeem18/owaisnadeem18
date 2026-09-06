@@ -9,7 +9,6 @@
 
 
 ## ✨ About Me  
-
 💻 **MERN Stack Developer (React.js, Node.js, Express, MongoDB)** with **2 years of experience** building web applications.  
 ⚡ Passionate about **JavaScript & modern frontend & backend development**.  
 ✨ Focused on building **scalable, efficient & user-friendly web applications.**  
